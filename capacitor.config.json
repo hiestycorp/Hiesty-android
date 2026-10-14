@@ -1,0 +1,9 @@
+{
+  "appId": "com.hiesty.app",
+  "appName": "Hiesty",
+  "webDir": "www",
+  "server": {
+    "url": "https://hiesty-fyn73g.v2.appdeploy.ai",
+    "cleartext": false
+  }
+}
